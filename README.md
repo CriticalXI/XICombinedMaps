@@ -1,3 +1,5 @@
+I no longer play nor am I involved in any way with FFXI. These are out of date and will remain that way. Someone else should make this if you want updated maps in this format.
+
 # XICombinedMaps
 
 This map pack combines several packs together to create a singular pack with all maps on FFXI edited in some form.
